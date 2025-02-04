@@ -1,0 +1,37 @@
+{
+    "packages": [
+      {
+        "id": 1,
+        "name": "Beach Getaway",
+        "image": "/images/maldives.jpg",
+        "destination": "Maldives",
+        "price": 1500,
+        "duration": "5 days",
+        "description": "Relax at the beautiful beaches of Maldives.",
+        "itinerary": ["Day 1: Arrival", "Day 2: Island Tour"],
+        "amenities": ["Free WiFi", "Breakfast included"],
+        "rating": 4.5,
+        "reviews": 120,
+        "availableDates": ["2025-03-10", "2025-04-15"],
+        "maxGroupSize": 10,
+        "featured": true
+      },
+      {
+        "id": 2,
+        "name": "Paris Adventure",
+        "image": "/images/paris.jpg",
+        "destination": "Paris",
+        "price": 2500,
+        "duration": "4 days",
+        "description": "Enjoy the breathtaking beauty of Paris.",
+        "itinerary": ["Day 1: Arrival", "Day 2: Eiffel Tower Tour"],
+        "amenities": ["Free WiFi", "Breakfast included"],
+        "rating": 4.3,
+        "reviews": 110,
+        "availableDates": ["2025-03-10", "2025-04-15"],
+        "maxGroupSize": 10,
+        "featured": true
+      }
+    ]
+  }
+  

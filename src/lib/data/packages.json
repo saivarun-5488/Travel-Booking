@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "name": "Gateway",
+        "image": "/images/maldives.jpg",
+        "destination": "Hawaii",
+        "price": 1200,
+        "duration": "7 days",
+        "description": "Experience the beauty of the tropical islands.",
+        "itinerary": ["Day 1: Arrival", "Day 2: Beach", "Day 3: Adventure"],
+        "amenities": ["Free WiFi", "Breakfast Included"],
+        "rating": 4.5,
+        "reviews": 200,
+        "availableDates": ["2025-06-15", "2025-07-10"],
+        "maxGroupSize": 10,
+        "featured": true
+    }
+    
+]

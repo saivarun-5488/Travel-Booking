@@ -1,0 +1,29 @@
+[
+    {
+        "id": "r1",
+        "packageId": 1,
+        "customerName": "Alice Johnson",
+        "rating": 5,
+        "date": "2024-12-15",
+        "comment": "Amazing experience in Paris! The guide was knowledgeable and the itinerary was perfect.",
+        "photos": ["/images/reviews/paris_review1.jpg", "/images/reviews/paris_review2.jpg"]
+    },
+    {
+        "id": "r2",
+        "packageId": 1,
+        "customerName": "Robert Wilson",
+        "rating": 4,
+        "date": "2024-12-10",
+        "comment": "Great trip overall. Hotel was excellent but would have liked more free time.",
+        "photos": []
+    },
+    {
+        "id": "r3",
+        "packageId": 2,
+        "customerName": "Samantha Lee",
+        "rating": 5,
+        "date": "2025-01-05",
+        "comment": "Tokyo was a dream! The mix of tradition and modern culture was breathtaking.",
+        "photos": ["/images/reviews/tokyo_review1.jpg"]
+    }
+]
